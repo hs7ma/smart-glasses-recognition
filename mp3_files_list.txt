@@ -1,0 +1,107 @@
+===============================================
+  قائمة ملفات MP3 لنظام التعرف على الأشياء
+  MP3 Files List for Object Recognition System
+===============================================
+
+يجب وضع هذه الملفات على بطاقة SD (TF Card) في المجلد الجذر
+Files must be placed on the SD card root directory
+
+تنسيق اسم الملف: 001.mp3, 002.mp3, ... 080.mp3
+File naming format: 001.mp3, 002.mp3, ... 080.mp3
+
+كل ملف يحتوي على تسجيل صوتي باسم الشيء (عربي أو إنجليزي)
+Each file contains an audio recording of the object name
+
+===============================================
+
+رقم الملف | الاسم الإنجليزي     | الاسم العربي
+File No.  | English Name        | Arabic Name
+----------|---------------------|------------------
+001.mp3   | person              | شخص
+002.mp3   | bicycle             | دراجة
+003.mp3   | car                 | سيارة
+004.mp3   | motorcycle          | دراجة نارية
+005.mp3   | airplane            | طائرة
+006.mp3   | bus                 | حافلة
+007.mp3   | train               | قطار
+008.mp3   | truck               | شاحنة
+009.mp3   | boat                | قارب
+010.mp3   | traffic light       | إشارة مرور
+011.mp3   | fire hydrant        | صنبور إطفاء
+012.mp3   | stop sign           | علامة توقف
+013.mp3   | parking meter       | عداد وقوف
+014.mp3   | bench               | مقعد
+015.mp3   | bird                | طائر
+016.mp3   | cat                 | قطة
+017.mp3   | dog                 | كلب
+018.mp3   | horse               | حصان
+019.mp3   | sheep               | خروف
+020.mp3   | cow                 | بقرة
+021.mp3   | elephant            | فيل
+022.mp3   | bear                | دب
+023.mp3   | zebra               | حمار وحشي
+024.mp3   | giraffe             | زرافة
+025.mp3   | backpack            | حقيبة ظهر
+026.mp3   | umbrella            | مظلة
+027.mp3   | handbag             | حقيبة يد
+028.mp3   | tie                 | ربطة عنق
+029.mp3   | suitcase            | حقيبة سفر
+030.mp3   | frisbee             | فريسبي
+031.mp3   | skis                | مزالج
+032.mp3   | snowboard           | لوح تزلج
+033.mp3   | sports ball         | كرة رياضية
+034.mp3   | kite                | طائرة ورقية
+035.mp3   | baseball bat        | مضرب بيسبول
+036.mp3   | baseball glove      | قفاز بيسبول
+037.mp3   | skateboard          | لوح تزلج
+038.mp3   | surfboard           | لوح ركمجة
+039.mp3   | tennis racket       | مضرب تنس
+040.mp3   | bottle              | زجاجة
+041.mp3   | wine glass          | كأس نبيذ
+042.mp3   | cup                 | كوب
+043.mp3   | fork                | شوكة
+044.mp3   | knife               | سكين
+045.mp3   | spoon               | ملعقة
+046.mp3   | bowl                | وعاء
+047.mp3   | banana              | موز
+048.mp3   | apple               | تفاح
+049.mp3   | sandwich            | ساندويتش
+050.mp3   | orange              | برتقال
+051.mp3   | broccoli            | بروكلي
+052.mp3   | carrot              | جزر
+053.mp3   | hot dog             | هوت دوغ
+054.mp3   | pizza               | بيتزا
+055.mp3   | donut               | دونات
+056.mp3   | cake                | كعكة
+057.mp3   | chair               | كرسي
+058.mp3   | couch               | أريكة
+059.mp3   | potted plant        | نبات
+060.mp3   | bed                 | سرير
+061.mp3   | dining table        | طاولة طعام
+062.mp3   | toilet              | مرحاض
+063.mp3   | tv                  | تلفاز
+064.mp3   | laptop              | لابتوب
+065.mp3   | mouse               | فأرة
+066.mp3   | remote              | جهاز تحكم
+067.mp3   | keyboard            | لوحة مفاتيح
+068.mp3   | cell phone          | هاتف
+069.mp3   | microwave           | ميكروويف
+070.mp3   | oven                | فرن
+071.mp3   | toaster             | محمصة
+072.mp3   | sink                | حوض
+073.mp3   | refrigerator        | ثلاجة
+074.mp3   | book                | كتاب
+075.mp3   | clock               | ساعة
+076.mp3   | vase                | مزهرية
+077.mp3   | scissors            | مقص
+078.mp3   | teddy bear          | دب محشو
+079.mp3   | hair drier          | مجفف شعر
+080.mp3   | toothbrush          | فرشاة أسنان
+
+===============================================
+ملاحظات:
+- يمكنك تسجيل الملفات بصوتك أو استخدام خدمة تحويل النص إلى كلام (TTS)
+- تأكد من أن بطاقة SD بتنسيق FAT32
+- الملفات يجب أن تكون في المجلد الجذر للبطاقة
+- مشغل HW-311 يدعم MP3 و WAV
+===============================================

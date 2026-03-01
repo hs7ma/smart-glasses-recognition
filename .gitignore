@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Uploads
+uploads/
+
+# MP3 files (for ESP32 SD card, not needed on server)
+mp3_output/
+
+# 3D model files
+*.stl
+
+# Temporary files
+tmp/
+*.tmp
+
+# Backup files
+*.backup
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
